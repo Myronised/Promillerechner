@@ -1,8 +1,8 @@
 # Promillerechner
-# © 2023 Ben Clemenz
-# © 2022-2023 Myronised Network
-# Alle Rechte vorbehalten.
-# All rights reserved.
+© 2023 Ben Clemenz
+© 2022-2023 Myronised Network
+Alle Rechte vorbehalten.
+All rights reserved.
 
 Dieses Projekt entstand ursprünglich aus einer erweiterten Hausaufgabe meines Informatik-Lehrers.
 Nach ca. 15 Stunden Arbeit war es dann schließlich für die 1.0-stable fertiggestellt.
