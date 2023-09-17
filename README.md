@@ -26,6 +26,7 @@ Die Watson-Formel und alle dazugehörigen Infos können [hier](https://flexikon.
 
 Zur Verbesserung des Programms bzw. zum Bugfixing bitte ich um fleißig Feedback!
 <br>Dieses kann entweder über die Seite "Issues" auf GitHub oder hier abgegeben werden: github@myronised.com
+Die selben Kontaktmöglichkeiten ergeben sich ebenfalls für Fragen, Business-Kontakt, etc.
 
 ## Changelog
 
