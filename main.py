@@ -55,6 +55,7 @@ bak = round(bak, 2)
 lDQ = input('\nKlasse! Du hast alles beantwortet. Bist du nun bereit, deine ungefähre Blutalkoholkonzentration zu erfahren? (Y/n) ')
 if lDQ in ('Y', 'y', 'J', 'j'):
     print('\n\nDie Konzentration des Alkohols in deinem Blut liegt bei ca. ' + Fore.RED + str(bak) + '‰' + Fore.RESET + '.')
+    input('Drücke Enter um das Programm zu beenden! ')
 else:
     lDQ = input('Bist du dir sicher, dass du das Programm beenden willst ohne deine BAK zu erfahren? (Y/n) ')
     if lDQ in ('Y', 'y', 'J', 'j'):
@@ -62,5 +63,6 @@ else:
     if lDQ in ('N', 'n'):
         print('Ich dachte schon, du willst mich verarschen! ;D Dann mach dich bereit:')
         print('\n\nDie Konzentration des Alkohols in deinem Blut liegt bei ca. ' + Fore.RED + str(bak) + '‰' + Fore.RESET + '.')
+        input('Drücke Enter um das Programm zu beenden! ')
     else:
         exit('Ich nehm deinen Tippfehler mal als "ja". Dann bis zum nächsten Mal! :(')
