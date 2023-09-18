@@ -1,6 +1,0 @@
-Bier, 5.0%
-Bacardi, 40.0%
-Asbach, 36.0%
-Hugo, 11.0%
-Wodka, 42.0%
-Wein, 12.0%

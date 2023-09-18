@@ -28,23 +28,32 @@ Zur Verbesserung des Programms bzw. zum Bugfixing bitte ich um fleißig Feedback
 <br>Dieses kann entweder über die Seite "Issues" auf GitHub oder hier abgegeben werden: github@myronised.com
 Die selben Kontaktmöglichkeiten ergeben sich ebenfalls für Fragen, Business-Kontakt, etc.
 
-## Changelog
-
-### Latest | v1.1-stable (17/09/2023)
+## Features & Infos
 - Einsprachiges Programm (Deutsch)
 - "Idiotensichere" Führung durch das gesamte Programm
 - Benutzerfreundliche Eingaben
 - Berechnung der Blutalkoholkonzentration nach Watson-Formel
 - Speichern (Hinzufügen/Ändern/Löschen) von Drinks
-- Ausführbare .exe (application/console/Promillerechner/main.exe)
+- Ausführbare .exe/.elf (für näheres, siehe application/<os>/console/README.md)
 - Apache License 2.0
 
+## Changelog
+
+### Latest | v1.2-stable (18/09/2023)
+- (/) Ausführbare .exe/.elf (für näheres, siehe application/<os>/console/README.md)
+- (/) Bugfixes
+- (+) GitHub | Signierte/Verifizierte Commits
+
+### v1.1-stable (17/09/2023)
+- (+) Ausführbare .exe
+- (+) Apache License 2.0
+
 ### v1.0-stable (16/09/2023)
-- Einsprachiges Programm (Deutsch)
-- "Idiotensichere" Führung durch das gesamte Programm
-- Benutzerfreundliche Eingaben
-- Berechnung der Blutalkoholkonzentration nach Watson-Formel
-- Speichern (Hinzufügen/Ändern/Löschen) von Drinks
+- (+) Einsprachiges Programm (Deutsch)
+- (+) "Idiotensichere" Führung durch das gesamte Programm
+- (+) Benutzerfreundliche Eingaben
+- (+) Berechnung der Blutalkoholkonzentration nach Watson-Formel
+- (+) Speichern (Hinzufügen/Ändern/Löschen) von Drinks
 
 ## Geplante Features (Auflistung nach Priorität)
 1. GUI
