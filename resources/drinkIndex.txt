@@ -1,5 +1,1 @@
-Radler, 1.7%
-Whisky, 46%
-Wodka, 42%
-Wein, 12%
-Bier, 5%
+
